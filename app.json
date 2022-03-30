@@ -1,0 +1,32 @@
+{
+  "name": "PayVit",
+  "displayName": "PayVit",
+  "expo": {
+    "name": "PayVit",
+    "slug": "PayVit",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/images/icon.png",
+    "splash": {
+      "image": "./src/assets/images/icon.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#380638"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "firebase": {
+        "apiKey": "AIzaSyBiIFpWRfjCagDZRWDBUWQdZb1qSJSm6d8",
+        "authDomain": "payvit-bdfcd.firebaseapp.com",
+        "databaseURL": "https://payvit-bdfcd.firebaseio.com/",
+        "projectId": "payvit-bdfcd",
+        "messagingSenderId": "737760772570",
+        "appId": "1:737760772570:android:5fbba7f00b998a5ed8c0e3"
+      }
+    },
+    "android": {
+      "package": "com.harjinders.PayVit"
+    }
+  }
+}

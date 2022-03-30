@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "737760772570",
+    "firebase_url": "https://payvit-bdfcd.firebaseio.com",
+    "project_id": "payvit-bdfcd",
+    "storage_bucket": "payvit-bdfcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737760772570:android:5fbba7f00b998a5ed8c0e3",
+        "android_client_info": {
+          "package_name": "com.payvit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737760772570-ipvfj0rk02033fkuo60qdf78eqf8d295.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiIFpWRfjCagDZRWDBUWQdZb1qSJSm6d8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737760772570-ipvfj0rk02033fkuo60qdf78eqf8d295.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
